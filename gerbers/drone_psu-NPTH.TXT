@@ -1,5 +1,5 @@
 M48
-;DRILL file {KiCad 5.0.1-33cea8e~68~ubuntu16.04.1} date lör  3 nov 2018 17:13:16
+;DRILL file {KiCad 5.0.1-33cea8e~68~ubuntu16.04.1} date lör  3 nov 2018 20:43:05
 ;FORMAT={-:-/ absolute / metric / decimal}
 FMAT,2
 METRIC,TZ

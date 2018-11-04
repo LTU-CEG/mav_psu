@@ -7,6 +7,8 @@ All passives are 0603 or bigger to facilitate hand soldering, while all vias are
 0.4 mm drill or larger to make manufacturing cheaper (recommended to use 2 oz
 copper layers).
 
+Designed to power the "computations" computer on MAVs, such as the Aaeon UP board.
+
 ---
 
 ## Contributors

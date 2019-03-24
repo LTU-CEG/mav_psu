@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -30,7 +30,7 @@ U 1 1 5B8430E7
 P 5600 2550
 F 0 "L1" V 5790 2550 50  0000 C CNN
 F 1 "4.7uH" V 5699 2550 50  0000 C CNN
-F 2 "Inductor_SMD:L_7.3x7.3_H4.5" H 5600 2550 50  0001 C CNN
+F 2 "inductor:ASPI-0630LR" H 5600 2550 50  0001 C CNN
 F 3 "~" H 5600 2550 50  0001 C CNN
 	1    5600 2550
 	0    -1   -1   0   
@@ -224,7 +224,7 @@ U 1 1 5B847982
 P 7550 2550
 F 0 "J2" H 7500 2550 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 7656 2637 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 7550 2550 50  0001 C CNN
+F 2 "connectors:pad_1.5x2.0mm_castelated" H 7550 2550 50  0001 C CNN
 F 3 "~" H 7550 2550 50  0001 C CNN
 	1    7550 2550
 	-1   0    0    1   
@@ -235,7 +235,7 @@ U 1 1 5B847B90
 P 3050 2450
 F 0 "J1" H 2950 2450 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 3156 2537 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 3050 2450 50  0001 C CNN
+F 2 "connectors:pad_1.5x2.0mm_castelated" H 3050 2450 50  0001 C CNN
 F 3 "~" H 3050 2450 50  0001 C CNN
 	1    3050 2450
 	1    0    0    -1  
@@ -246,7 +246,7 @@ U 1 1 5B847C86
 P 7550 2700
 F 0 "J3" H 7500 2700 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 7656 2787 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 7550 2700 50  0001 C CNN
+F 2 "connectors:pad_1.5x2.0mm_castelated" H 7550 2700 50  0001 C CNN
 F 3 "~" H 7550 2700 50  0001 C CNN
 	1    7550 2700
 	-1   0    0    1   
@@ -268,7 +268,7 @@ U 1 1 5B848D8D
 P 3050 3000
 F 0 "J5" H 3000 3000 50  0000 R CNN
 F 1 "Conn_01x01_Male" H 3156 3087 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 3050 3000 50  0001 C CNN
+F 2 "connectors:pad_1.5x2.0mm_castelated" H 3050 3000 50  0001 C CNN
 F 3 "~" H 3050 3000 50  0001 C CNN
 	1    3050 3000
 	1    0    0    -1  
